@@ -7,37 +7,29 @@
 
 <div align="center">
 
-<a href="https://git.io/typing-svg">
-    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=25&duration=3500&pause=700&color=3584E4&center=true&vCenter=true&width=550&lines=%24+whoami;Ingeniero+de+Software+en+formaci%C3%B3n;Clean+Architecture+%7C+Design+Patterns" alt="Typing SVG"/>
-</a>
+### `$` whoami — Ingeniero de Software en formación
 
-</div>
-
-<!--
-    Esta consola se genera dinámicamente, no es un GIF que tengas que grabar ni subir.
-    Motor: https://github.com/DenverCoder1/readme-typing-svg (modo multiline=true)
-    Para editar el texto, cambia el parámetro "lines" (cada línea separada por ";", espacios como "+").
--->
-<div align="center">
-    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=16&duration=2200&pause=900&multiline=true&width=600&height=330&color=3584E4&vCenter=true&random=false&lines=%24+whoami;%3E+estudiante_ingenieria_software;%24+cat+formacion.txt;%3E+Tecnico+en+Programacion+de+Software+-+SENA;%3E+Ingenieria+de+Software+(en+curso);%3E+Universidad+de+La+Salle;%24+cat+principios.txt;%3E+MVC+-+PSR-4+-+Clean+Architecture;%24+neofetch;%3E+OS%3A+Fedora+Workstation;%3E+Shell%3A+zsh" alt="Terminal typing"/>
 </div>
 
 ## `class` AboutMe
 
-```python
-class Perfil:
-    def __init__(self):
-        self.formacion = [
-            "Técnico en Programación de Software — SENA",
-            "Ingeniería de Software (en curso) — Universidad de La Salle"
-        ]
-        self.enfoque = "Escribir código que se pueda mantener en 2 años, no solo hoy"
-        self.principios = ["MVC", "PSR-4", "Clean Architecture", "SOLID"]
-        self.entorno = "Linux (Fedora) + teclado mecánico custom 60%"
+<!--
+    Único efecto de tipeo del perfil. Se genera dinámicamente (no es un GIF que
+    tengas que grabar ni subir). Motor: DenverCoder1/readme-typing-svg, modo multiline=true.
 
-    def __repr__(self):
-        return "Ingeniero de software con rigor académico y obsesión por la arquitectura"
-```
+    IMPORTANTE sobre por qué antes no se veía:
+    1) SVG/XML colapsa espacios múltiples en uno solo, así que la indentación con
+       espacios normales (%20%20%20%20) se perdía. Aquí se usa el carácter
+       "espacio de no separación" (NBSP, %C2%A0) repetido, que SVG SÍ respeta.
+    2) Los paréntesis y comillas deben ir codificados (%28 %29 %22), no crudos,
+       o la URL puede fallar al cargar como imagen en GitHub.
+
+    Para editar el código que se "escribe": genera una nueva URL con un
+    encoder (evita escribir el %-encoding a mano, es muy fácil equivocarse).
+-->
+<div align="center">
+    <img src="https://readme-typing-svg.demolab.com?font=Fira%20Code&size=14&duration=1600&pause=600&multiline=true&width=620&height=400&color=3584E4&vCenter=true&random=false&lines=class%20Perfil%3A%3B%C2%A0%C2%A0def%20__init__%28self%29%3A%3B%C2%A0%C2%A0%C2%A0%C2%A0self.formacion%20%3D%20%5B%3B%C2%A0%C2%A0%C2%A0%C2%A0%C2%A0%C2%A0%22Tecnico%20en%20Programacion%20-%20SENA%22%2C%3B%C2%A0%C2%A0%C2%A0%C2%A0%C2%A0%C2%A0%22Ingenieria%20de%20Software%20%28en%20curso%29%22%2C%3B%C2%A0%C2%A0%C2%A0%C2%A0%5D%3B%C2%A0%C2%A0%C2%A0%C2%A0self.enfoque%20%3D%20%22Codigo%20mantenible%2C%20no%20solo%20funcional%22%3B%C2%A0%C2%A0%C2%A0%C2%A0self.principios%20%3D%20%5B%22MVC%22%2C%20%22PSR-4%22%2C%20%22Clean%20Architecture%22%5D%3B%C2%A0%C2%A0%C2%A0%C2%A0self.entorno%20%3D%20%22Fedora%20Linux%20%2B%20teclado%20mecanico%2060%25%22%3B%3B%C2%A0%C2%A0def%20__repr__%28self%29%3A%3B%C2%A0%C2%A0%C2%A0%C2%A0return%20%22Rigor%20academico%20%2B%20arquitectura%20limpia%22" alt="class Perfil typing"/>
+</div>
 
 ---
 
