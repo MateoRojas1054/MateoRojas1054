@@ -1,14 +1,26 @@
+<!--
+    README de perfil — genera con `gh repo create TU_USUARIO/TU_USUARIO --public`
+    y coloca este archivo como README.md en la raíz.
+-->
+
+<img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=0d1117,3584E4&height=120&section=header" alt="header"/>
+
 <div align="center">
 
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=26&duration=3000&pause=800&color=3584E4&center=true&vCenter=true&width=650&lines=%24+whoami;Ingeniero+de+Software+en+formaci%C3%B3n;Clean+Architecture+%7C+Design+Patterns+%7C+DevOps;Fedora+%2B+Neovim+%2B+Teclado+60%25" alt="Typing SVG" />
+<a href="https://git.io/typing-svg">
+    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=25&duration=3500&pause=700&color=3584E4&center=true&vCenter=true&width=550&lines=%24+whoami;Ingeniero+de+Software+en+formaci%C3%B3n;Clean+Architecture+%7C+Design+Patterns" alt="Typing SVG"/>
+</a>
 
 </div>
 
-<p align="center">
-  <img src="https://img.shields.io/badge/OS-Fedora_Workstation-3584E4?style=for-the-badge&logo=fedora&logoColor=white&labelColor=0d1117" />
-  <img src="https://img.shields.io/badge/SHELL-zsh-3584E4?style=for-the-badge&logo=gnu-bash&logoColor=white&labelColor=0d1117" />
-  <img src="https://img.shields.io/badge/STATUS-Compilando_conocimiento-3584E4?style=for-the-badge&logo=archlinux&logoColor=white&labelColor=0d1117" />
-</p>
+<!--
+    Tu propio GIF de terminal se genera en https://www.terminalgif.com
+    Sube el .gif resultante a un repo (ej. TU_USUARIO/TU_USUARIO/assets/terminal.gif)
+    y actualiza la ruta de abajo.
+-->
+<div align="center">
+    <img src="./assets/terminal.gif" alt="Terminal typing demo" width="600"/>
+</div>
 
 <div align="center">
 
@@ -41,32 +53,19 @@ class Perfil:
 
 ## `>_` Stack & Arquitectura
 
-No solo uso lenguajes, diseño con ellos. Estas son mis herramientas y **cómo** las aplico:
+### Lenguajes y herramientas
+<div align="center">
 
-<table align="center">
-<tr>
-<td valign="top" width="50%">
+[![My Skills](https://skillicons.dev/icons?i=py,php,js,html,css,mysql,git,github,githubactions,docker,linux,vim&theme=dark)](https://skillicons.dev)
 
-**Lenguajes**
+</div>
 
-<img src="https://img.shields.io/badge/Python-3584E4?style=flat-square&logo=python&logoColor=white&labelColor=0d1117" />
-<img src="https://img.shields.io/badge/PHP-3584E4?style=flat-square&logo=php&logoColor=white&labelColor=0d1117" />
-<img src="https://img.shields.io/badge/JavaScript-3584E4?style=flat-square&logo=javascript&logoColor=white&labelColor=0d1117" />
-<img src="https://img.shields.io/badge/SQL-3584E4?style=flat-square&logo=postgresql&logoColor=white&labelColor=0d1117" />
+### Aprendiendo
+<div align="center">
 
-</td>
-<td valign="top" width="50%">
+[![Learning](https://skillicons.dev/icons?i=cpp,postgres&theme=dark)](https://skillicons.dev)
 
-**Herramientas & DevOps**
-
-<img src="https://img.shields.io/badge/Git-3584E4?style=flat-square&logo=git&logoColor=white&labelColor=0d1117" />
-<img src="https://img.shields.io/badge/GitHub_Actions-3584E4?style=flat-square&logo=githubactions&logoColor=white&labelColor=0d1117" />
-<img src="https://img.shields.io/badge/Composer-3584E4?style=flat-square&logo=composer&logoColor=white&labelColor=0d1117" />
-<img src="https://img.shields.io/badge/Docker-3584E4?style=flat-square&logo=docker&logoColor=white&labelColor=0d1117" />
-
-</td>
-</tr>
-</table>
+</div>
 
 **Diseño y buenas prácticas que aplico activamente:**
 
@@ -82,7 +81,7 @@ No solo uso lenguajes, diseño con ellos. Estas son mis herramientas y **cómo**
 
 ## `$` Proyectos destacados
 
-> 📌 Fija estos en tu perfil desde **GitHub → tu perfil → Customize your pins**. No es algo que el README controle, pero aquí tienes las descripciones listas para copiar en cada repo:
+> 📌 Fija estos desde **GitHub → tu perfil → Customize your pins**. Descripciones listas para pegar en cada repo:
 
 <table align="center">
 <tr>
@@ -127,12 +126,21 @@ Scripts de automatización para provisionar mi entorno Fedora: shell, teclado, e
 
 </div>
 
+---
+
+### Conecta conmigo
+
 <div align="center">
-
-```
-┌──────────────────────────────────────────────────────────┐
-│  user@fedora ~$ echo "Gracias por pasar por mi perfil"    │
-└──────────────────────────────────────────────────────────┘
-```
-
+    <a href="https://www.linkedin.com/in/TU_USUARIO/">
+        <img src="https://img.shields.io/badge/LinkedIn-3584E4?style=for-the-badge&logo=linkedin&logoColor=white&labelColor=0d1117" />
+    </a>
+    <a href="https://github.com/TU_USUARIO">
+        <img src="https://img.shields.io/badge/GitHub-3584E4?style=for-the-badge&logo=github&logoColor=white&labelColor=0d1117" />
+    </a>
 </div>
+
+<img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=0d1117,3584E4&height=120&section=footer" alt="footer"/>
+
+<!--
+    Gracias por pasar por mi perfil <3
+-->
