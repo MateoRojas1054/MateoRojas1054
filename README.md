@@ -14,22 +14,12 @@
 </div>
 
 <!--
-    Tu propio GIF de terminal se genera en https://www.terminalgif.com
-    Sube el .gif resultante a un repo (ej. TU_USUARIO/TU_USUARIO/assets/terminal.gif)
-    y actualiza la ruta de abajo.
+    Esta consola se genera dinámicamente, no es un GIF que tengas que grabar ni subir.
+    Motor: https://github.com/DenverCoder1/readme-typing-svg (modo multiline=true)
+    Para editar el texto, cambia el parámetro "lines" (cada línea separada por ";", espacios como "+").
 -->
 <div align="center">
-    <img src="./assets/terminal.gif" alt="Terminal typing demo" width="600"/>
-</div>
-
-<div align="center">
-
-```
-┌──────────────────────────────────────────────────────────┐
-│  user@fedora ~$ cat about_me.md                           │
-└──────────────────────────────────────────────────────────┘
-```
-
+    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=16&duration=2200&pause=900&multiline=true&width=600&height=330&color=3584E4&vCenter=true&random=false&lines=%24+whoami;%3E+estudiante_ingenieria_software;%24+cat+formacion.txt;%3E+Tecnico+en+Programacion+de+Software+-+SENA;%3E+Ingenieria+de+Software+(en+curso);%3E+Universidad+de+La+Salle;%24+cat+principios.txt;%3E+MVC+-+PSR-4+-+Clean+Architecture;%24+neofetch;%3E+OS%3A+Fedora+Workstation;%3E+Shell%3A+zsh" alt="Terminal typing"/>
 </div>
 
 ## `class` AboutMe
