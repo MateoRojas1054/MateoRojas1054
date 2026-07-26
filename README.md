@@ -38,25 +38,14 @@
 ### Languages & tools
 <div align="center">
 
-[![My Skills](https://skillicons.dev/icons?i=py,php,js,html,css,mysql,git,github,githubactions,docker,linux,vim&theme=dark)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=py,php,js,html,css,mysql,git,github,githubactions,docker,linux&theme=dark)](https://skillicons.dev)
 
 </div>
 
 ### Currently learning
 <div align="center">
 
-[![Learning](https://skillicons.dev/icons?i=cpp,postgres&theme=dark)](https://skillicons.dev)
-
-</div>
-
----
-
-<div align="center">
-
-<img src="https://github-readme-stats.vercel.app/api?username=MateoRojas1054&show_icons=true&theme=github_dark&hide_border=true&bg_color=0d1117&title_color=3584E4&icon_color=3584E4&text_color=c9d1d9" height="165" />
-<img src="https://github-readme-streak-stats-eight.vercel.app?user=MateoRojas1054&theme=tokyonight&hide_border=true&background=0d1117" height="165" />
-
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=MateoRojas1054&layout=compact&theme=github_dark&hide_border=true&bg_color=0d1117&title_color=3584E4&text_color=c9d1d9" height="165" />
+[![Learning](https://skillicons.dev/icons?i=aws,arch&theme=dark)](https://skillicons.dev)
 
 </div>
 
@@ -65,7 +54,7 @@
 ### Connect with me
 
 <div align="center">
-    <a href="https://www.linkedin.com/in/MateoRojas1054/">
+    <a href="https://www.linkedin.com/in/mateo-rojas-martinez/">
         <img src="https://img.shields.io/badge/LinkedIn-3584E4?style=for-the-badge&logo=linkedin&logoColor=white&labelColor=0d1117" />
     </a>
     <a href="https://github.com/MateoRojas1054">
