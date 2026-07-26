@@ -54,7 +54,7 @@
 <div align="center">
 
 <img src="https://github-readme-stats.vercel.app/api?username=MateoRojas1054&show_icons=true&theme=github_dark&hide_border=true&bg_color=0d1117&title_color=3584E4&icon_color=3584E4&text_color=c9d1d9" height="165" />
-<img src="https://streak-stats.demolab.com/?user=MateoRojas1054&theme=tokyonight&hide_border=true&background=0d1117" height="165" />
+<img src="https://github-readme-streak-stats-eight.vercel.app?user=MateoRojas1054&theme=tokyonight&hide_border=true&background=0d1117" height="165" />
 
 <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=MateoRojas1054&layout=compact&theme=github_dark&hide_border=true&bg_color=0d1117&title_color=3584E4&text_color=c9d1d9" height="165" />
 
