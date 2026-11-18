@@ -21,7 +21,6 @@ I design and maintain **clean, reliable software systems**—with 1.5 years of h
 | :--- | :--- | :--- | :--- | :--- |
 | **Certificate Issuance & Verification (`constancias`)** | Production · 1.5 years | Core Developer & Maintainer | PHP 8.2+, MySQL 8.0, Apache, Docker, Composer (PSR-4) | [Case Study](https://github.com/MateoRojas1054/architecture-case-studies/blob/main/constancias/README.md) |
 | **SIGMA — Academic Tutoring Platform** | Institutional · Multi-role | Architecture, DevOps & QA | PHP 8.3, Slim 4, PHP-DI, MySQL 8.0 (ACID), Docker | [Case Study](https://github.com/MateoRojas1054/architecture-case-studies/blob/main/sigma/README.md) |
-| **Puerto Delta — Port Labor Cost Platform** | Hackathon 2026 (Team 13) | Development & Architecture | Python, FastAPI, PostgreSQL, React, React Native (Expo), TypeScript | [Case Study](https://github.com/MateoRojas1054/architecture-case-studies/blob/main/puerto-delta-macondo/README.md) |
 
 ---
 
@@ -29,13 +28,13 @@ I design and maintain **clean, reliable software systems**—with 1.5 years of h
 
 <div align="center">
 
-[![Tech Stack](https://skillicons.dev/icons?i=php,py,ts,js,react,fastapi,mysql,postgres,nodejs,docker,git,github,linux&theme=dark)](https://skillicons.dev)
+[![Tech Stack](https://skillicons.dev/icons?i=php,py,js,ts,mysql,postgres,docker,git,github,linux&theme=dark)](https://skillicons.dev)
 
 </div>
 
-- **Backend & APIs:** PHP 8.2+ (PSR-4, Slim 4, PDO), Python (FastAPI), Node.js (Express)
+- **Backend & APIs:** PHP 8.2+ (PSR-4, Slim 4, PDO), Python, Node.js
 - **Databases & Data:** MySQL 8.0 (InnoDB, ACID transactions), PostgreSQL, Relational Modeling & Query Optimization
-- **Frontend & Mobile:** TypeScript, React, Vite, React Native (Expo), HTML5/CSS3
+- **Frontend:** JavaScript (ES6), TypeScript, HTML5/CSS3
 - **Engineering Practices:** Layered Architecture, SOLID / Dependency Injection, Docker & Docker Compose, Git PR Workflows, Automated & Regression Testing
 
 ---
