@@ -9,7 +9,7 @@ Bogotá, Colombia
 
 </div>
 
-I design and maintain **clean, reliable software systems**—with 1.5 years of hands-on experience building and operating production web applications, layered architectures, relational databases, and containerized environments.
+I design and maintain **clean, reliable software systems**—with 3 years of hands-on experience building and operating production web applications, layered architectures, relational databases, and containerized environments.
 
 ---
 
