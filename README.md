@@ -28,13 +28,13 @@ I design and maintain **clean, reliable software systems**—with 3 years of han
 
 <div align="center">
 
-[![Tech Stack](https://skillicons.dev/icons?i=php,py,js,ts,mysql,postgres,docker,git,github,linux&theme=dark)](https://skillicons.dev)
+[![Tech Stack](https://skillicons.dev/icons?i=php,py,js,ts,angular,nodejs,express,mysql,postgres,mongodb,docker,git,github,linux&theme=dark)](https://skillicons.dev)
 
 </div>
 
-- **Backend & APIs:** PHP 8.2+ (PSR-4, Slim 4, PDO), Python, Node.js
-- **Databases & Data:** MySQL 8.0 (InnoDB, ACID transactions), PostgreSQL, Relational Modeling & Query Optimization
-- **Frontend:** JavaScript (ES6), TypeScript, HTML5/CSS3
+- **Backend & APIs:** PHP 8.2+ (PSR-4, Slim 4, PDO), Node.js (Express), Python
+- **Databases & Data:** MySQL 8.0 (InnoDB, ACID transactions), PostgreSQL, MongoDB, Relational Modeling & Query Optimization
+- **Frontend:** Angular, TypeScript, JavaScript (ES6), HTML5/CSS3
 - **Engineering Practices:** Layered Architecture, SOLID / Dependency Injection, Docker & Docker Compose, Git PR Workflows, Automated & Regression Testing
 
 ---
@@ -43,8 +43,6 @@ I design and maintain **clean, reliable software systems**—with 3 years of han
 
 - **FullStack Mean Expert** — Certiprof ([Verify on Credly](https://www.credly.com/badges/9f752c17-9fd1-42e2-994c-eb5873ba6be9))
 - **Python Essentials 2** — Cisco ([Verify on Credly](https://www.credly.com/badges/9d79edd8-cf2c-4a20-9b23-c7a4a0268b43))
-- **Data Science Essentials With Python** — Cisco ([Verify on Credly](https://www.credly.com/badges/03e1c780-6434-4a2c-bda2-5fe60fe28ffa))
-- **Python Essentials 1** — Cisco ([Verify on Credly](https://www.credly.com/badges/630ff2be-79d6-4628-92a7-1cfa2af819ea))
 
 ---
 
