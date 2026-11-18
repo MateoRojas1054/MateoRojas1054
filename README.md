@@ -41,9 +41,10 @@ I design and maintain **clean, reliable software systems**—with 3 years of han
 
 ## Certifications & Verified Badges
 
-- **Python Essentials 1** — Cisco ([Verify on Credly](https://www.credly.com/badges/57c9c074-b4ad-4044-b5a4-40ebb180c0b4))
-- **Introduction to Data Science** — Cisco ([Verify on Credly](https://www.credly.com/badges/7892da94-7df5-4682-810e-0c44c3aee997))
-- **Networking Academy Learn-A-Thon 2023** — Cisco ([Verify on Credly](https://www.credly.com/badges/fa0cabbc-e380-45ca-8ebb-2e87a194e67e))
+- **FullStack Mean Expert** — Certiprof ([Verify on Credly](https://www.credly.com/badges/9f752c17-9fd1-42e2-994c-eb5873ba6be9))
+- **Python Essentials 2** — Cisco ([Verify on Credly](https://www.credly.com/badges/9d79edd8-cf2c-4a20-9b23-c7a4a0268b43))
+- **Data Science Essentials With Python** — Cisco ([Verify on Credly](https://www.credly.com/badges/03e1c780-6434-4a2c-bda2-5fe60fe28ffa))
+- **Python Essentials 1** — Cisco ([Verify on Credly](https://www.credly.com/badges/630ff2be-79d6-4628-92a7-1cfa2af819ea))
 
 ---
 
@@ -53,7 +54,7 @@ I design and maintain **clean, reliable software systems**—with 3 years of han
   <a href="https://www.linkedin.com/in/mateo-rojas-martinez/">
     <img src="https://img.shields.io/badge/LinkedIn-3584E4?style=for-the-badge&logo=linkedin&logoColor=white&labelColor=0d1117" alt="LinkedIn" />
   </a>
-  <a href="https://www.credly.com/users/mateo-rojas-martinez">
+  <a href="https://www.credly.com/users/mateorojas1054">
     <img src="https://img.shields.io/badge/Credly-0d1117?style=for-the-badge&logo=credly&logoColor=white&labelColor=3584E4" alt="Credly" />
   </a>
   <a href="mailto:mateo.rojas1054@gmail.com">
