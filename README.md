@@ -49,7 +49,7 @@ I design and maintain **clean, reliable software systems**—with 3 years of han
 ## Connect
 
 <div align="center">
-  <a href="https://www.linkedin.com/in/mateo-rojas-martinez/">
+  <a href="https://www.linkedin.com/in/mateorojas1054/">
     <img src="https://img.shields.io/badge/LinkedIn-3584E4?style=for-the-badge&logo=linkedin&logoColor=white&labelColor=0d1117" alt="LinkedIn" />
   </a>
   <a href="https://www.credly.com/users/mateorojas1054">
