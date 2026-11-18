@@ -39,11 +39,22 @@ I design and maintain **clean, reliable software systems**—with 3 years of han
 
 ---
 
+## Certifications & Verified Badges
+
+- **Python Essentials 1** — Cisco ([Verify on Credly](https://www.credly.com/badges/57c9c074-b4ad-4044-b5a4-40ebb180c0b4))
+- **Introduction to Data Science** — Cisco ([Verify on Credly](https://www.credly.com/badges/7892da94-7df5-4682-810e-0c44c3aee997))
+- **Networking Academy Learn-A-Thon 2023** — Cisco ([Verify on Credly](https://www.credly.com/badges/fa0cabbc-e380-45ca-8ebb-2e87a194e67e))
+
+---
+
 ## Connect
 
 <div align="center">
   <a href="https://www.linkedin.com/in/mateo-rojas-martinez/">
     <img src="https://img.shields.io/badge/LinkedIn-3584E4?style=for-the-badge&logo=linkedin&logoColor=white&labelColor=0d1117" alt="LinkedIn" />
+  </a>
+  <a href="https://www.credly.com/users/mateo-rojas-martinez">
+    <img src="https://img.shields.io/badge/Credly-0d1117?style=for-the-badge&logo=credly&logoColor=white&labelColor=3584E4" alt="Credly" />
   </a>
   <a href="mailto:mateo.rojas1054@gmail.com">
     <img src="https://img.shields.io/badge/Email-0d1117?style=for-the-badge&logo=gmail&logoColor=white&labelColor=3584E4" alt="Email" />
