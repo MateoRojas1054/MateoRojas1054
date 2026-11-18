@@ -19,7 +19,7 @@ I design and maintain **clean, reliable software systems**—with 3 years of han
 
 | Project | Status & Scope | Role | Stack | Breakdown |
 | :--- | :--- | :--- | :--- | :--- |
-| **Certificate Issuance & Verification (`constancias`)** | Production · 1.5 years | Core Developer & Maintainer | PHP 8.2+, MySQL 8.0, Apache, Docker, Composer (PSR-4) | [Case Study](https://github.com/MateoRojas1054/architecture-case-studies/blob/main/constancias/README.md) |
+| **Certificate Issuance & Verification (`constancias`)** | Production · Jan 2025 – Jul 2026 | Core Developer & Maintainer | PHP 8.2+, MySQL 8.0, Apache, Docker, Composer (PSR-4) | [Case Study](https://github.com/MateoRojas1054/architecture-case-studies/blob/main/constancias/README.md) |
 | **SIGMA — Academic Tutoring Platform** | Institutional · Multi-role | Architecture, DevOps & QA | PHP 8.3, Slim 4, PHP-DI, MySQL 8.0 (ACID), Docker | [Case Study](https://github.com/MateoRojas1054/architecture-case-studies/blob/main/sigma/README.md) |
 
 ---
