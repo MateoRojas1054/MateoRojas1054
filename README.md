@@ -4,8 +4,8 @@
 
 # Mateo Rojas Martinez
 
-**Software Engineering Student (Universidad de La Salle) · Software Programming Technician (SENA)**  
-Bogotá, Colombia · Backend & Full-Stack Developer
+**Backend & Full-Stack Developer · Software Engineering Student (Universidad de La Salle)**  
+Bogotá, Colombia
 
 </div>
 
@@ -15,7 +15,7 @@ I design and maintain **clean, reliable software systems**—with 1.5 years of h
 
 ## Featured Architecture & Engineering Case Studies
 
-> *Source repositories for institutional and competition projects remain private to respect ownership and security agreements. Full architectural breakdowns, system diagrams, security controls, and engineering decisions are documented publicly in [**architecture-case-studies**](https://github.com/MateoRojas1054/architecture-case-studies).*
+> *Source repositories for production and institutional projects remain private to respect ownership and security agreements. Full architectural breakdowns, system diagrams, security controls, and engineering decisions are documented publicly in [**architecture-case-studies**](https://github.com/MateoRojas1054/architecture-case-studies).*
 
 | Project | Status & Scope | Role | Stack | Breakdown |
 | :--- | :--- | :--- | :--- | :--- |
